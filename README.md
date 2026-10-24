@@ -7,10 +7,16 @@
 - Tyler Lafond
 
 **Dataset:** 
+
 Appliances Energy Prediction
 
 **Deadlines:**
+
 Stage 1 - October 26th
+
 Stage 2 - November 16th
+
 Stage 3 - November 30th
+
 Final Report - December 9th
+
