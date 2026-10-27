@@ -1,0 +1,2 @@
+October 26th - Phase 1 Presentation
+Look into different target value and maybe use hourly rather than the original 10 min intervals.
