@@ -1,0 +1,33 @@
+{
+ "MLP": {
+  "window": 6,
+  "hidden": 64,
+  "lr": 0.001
+ },
+ "CNN": {
+  "window": 6,
+  "filters": 16,
+  "kernel": 3,
+  "lr": 0.001
+ },
+ "RNN": {
+  "window": 24,
+  "hidden": 64,
+  "layers": 2
+ },
+ "LSTM": {
+  "window": 6,
+  "hidden": 32,
+  "layers": 1
+ },
+ "GRU": {
+  "window": 24,
+  "hidden": 64,
+  "layers": 2
+ },
+ "TCN": {
+  "window": 6,
+  "channels": 16,
+  "kernel": 3
+ }
+}
